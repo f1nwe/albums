@@ -8,6 +8,7 @@
     "postinstall": "react-native-port-patcher --new-port 8088"
   },
   "dependencies": {
+    "axios": "^0.16.2",
     "react": "16.0.0-alpha.12",
     "react-native": "0.46.4"
   },
